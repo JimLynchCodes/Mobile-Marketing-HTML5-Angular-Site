@@ -13,7 +13,7 @@
     vm.classAnimation = '';
     vm.creationDate = 1462732508744;
     vm.showToastr = showToastr;
-    vm.title = "Jim's Awesome Websites";
+    vm.title = "Barbell Tennis Bootcamp";
 
     activate();
 
